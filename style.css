@@ -10,8 +10,8 @@ body {
   }
 
 .clock {
-    width: 600px;
-    height: 600px;
+    width: 400px;
+    height: 400px;
     margin-top: 2%;
     border-radius: 50%;
     border: 8px solid rgb(68, 5, 240); 
